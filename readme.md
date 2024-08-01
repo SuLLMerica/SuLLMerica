@@ -9,8 +9,6 @@
       - [Parameters](#parameters)
     - [Testing the model](#testing-the-model)
   - [Our data](#our-data)
-  - [License](#license)
-  - [Contact](#contact)
 
 
 # SuLLMerica-ITU
@@ -112,10 +110,4 @@ Because the test data was not published yet we don`t show the percentage score o
 - Test questions with the generated RAG context: [SuLLMerica/TeleQnA_Test_With_RAG_Context](https://huggingface.co/datasets/SuLLMerica/TeleQnA_Test_With_RAG_Context)
 - Finetuned model: [SuLLMerica/TeleQnA-Phi2-Phinetune](https://huggingface.co/SuLLMerica/TeleQnA-Phi2-Phinetune)
 
-## License
 
-[Specify the license under which the code is distributed, if applicable]
-
-## Contact
-
-[Provide contact information for the project maintainers or team members]
