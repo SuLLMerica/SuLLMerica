@@ -1,0 +1,4 @@
+__pycache__/
+Source/__pycache__/
+series_embeddings.json
+*.db
