@@ -23,7 +23,7 @@ This repository contains the code for the SuLLMerica project, developed for the 
 
 This is a RAG and finetuned model specialyzed for Question answering in the Telecomunications scope, it was made and trained in order to get the best performance in the [TeleQnA dataset](https://huggingface.co/datasets/netop/TeleQnA).
 
-The proposed method is discussed in our [Article]() (Not yet released)
+The proposed method is discussed in our [Article](https://arxiv.org/pdf/2502.20188)
 
 ## Code pipeline
 The code consists of a RAG system that retrieves context from the rel18 documents of the 3GPP Standart combined with a query enhancement process that extracts the terms, definitions and abreviations of the question and appends their meanings to the context as well as a LLM model that was finetuned from [phi-2](https://huggingface.co/microsoft/phi-2) with the context data to improve it`s utilization of the context.
